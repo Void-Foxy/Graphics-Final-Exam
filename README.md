@@ -11,6 +11,7 @@ Bump, No color
  ![Alt text](bumpNoColor.png "gitignore")
 Bump and color
  ![Alt text](bumpWithColor.png "gitignore")
+ 
  As for code explanation, the extras were as simple as importing color and multipling it by the rgb of the texture.
  ![Alt text](normalMapCode.png "gitignore")
 
